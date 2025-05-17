@@ -1,4 +1,5 @@
 ![Cookie Serializer Banner](./CookieLogo.jpg)
+<img src="./CookieLogo.jpg" alt="Cookie Serializer Banner" width="500"/>
 
 # 🍪 Generic .NET Cookie Serializer & Deserializer
 
