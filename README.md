@@ -23,6 +23,21 @@ A lightweight and **generic .NET console application** to serialize and deserial
 ```bash
 git clone https://github.com/your-username/generic-cookie-serializer.git
 cd generic-cookie-serializer
+```
+2. **Add the required dependency**:
 
-2. **Clone the repository**:
+```bash
 dotnet add package Newtonsoft.Json
+```
+3. **Restore dependencies and build**:
+
+```bash
+dotnet restore
+dotnet build
+```
+
+3. **Run the app**:
+
+```bash
+dotnet run
+```
